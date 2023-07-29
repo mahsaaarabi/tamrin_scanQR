@@ -1,0 +1,43 @@
+.first {
+    background-color: #D5E1EF;
+}
+
+.div1 {
+    width: 350px;
+    height: 500px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+}
+
+.div2 {
+    background-color: #2B7DFA;
+    padding: 50px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.pgf {
+    font-size: 20px;
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+    color: #BFC0C5;
+}
